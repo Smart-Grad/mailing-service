@@ -1,0 +1,14 @@
+node_modules
+build
+dist
+out
+
+.DS_Store
+
+.vscode
+.idea
+
+.env
+.env.production
+.env.development
+.env.stagging
