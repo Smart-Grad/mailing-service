@@ -9,5 +9,9 @@
   "devDependencies": {
     "@vercel/node": "^2.8.16",
     "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@aws-sdk/client-sesv2": "^3.259.0",
+    "zod": "^3.20.2"
   }
 }
